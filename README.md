@@ -1,4 +1,4 @@
-# Python_studies
+# Python
 
 Folder with files used for python study
 
